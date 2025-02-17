@@ -43,7 +43,7 @@ emit 省略
 emotion 情感
 emotional 情感的
 emperor 皇帝
-emphasis 强调，重点(n)
+emphasis 强调，重点(n) (恩four 射死)
 emphasize 强调(v)
 empire 帝国
 employee 受雇者
@@ -51,17 +51,40 @@ employer 雇主
 employment 招聘
 empower 授权于，是能够
 
+enclose 围住，圈起来
+encounter 遇到，遭遇
+encourage 勇气
+ending 结尾，结局，死亡
+endless 无止境的
+endure 忍受，容忍 (阴地儿)
+enforce 强制执行，迫使
+engage 使订婚，使从事，聘用，吸引，占用(时间、精力) engage in 参加
+people engage in work to feed themselves 人们工作以养活自己
+enhance 加强、提升 magnify 扩大 strengthen 使加强
+enlarge 使加大
+enormous 巨大的
+enquire 询问 enquiry 询问(n)
+enroll 入学，加入，招收
+ensure 保证
+entertain 使娱乐，款待，招待(朋友)
+entertainment 娱乐
+enthusiastic 热情的 enthusiasm 热情
+entire 整个
+entitle 被命名为……
+entry 入口处，登记，进入，参赛者名单，条目
+environment 环境
 
+envy 嫉妒、羡慕
+epidemic 流行病
+episode 插曲、一段情节
+equality 相等
+equation 方程式
+equip 设备
+equivalent 相等的、等量的，等价物
+erect 建造，使竖直\垂直
 
+erroneous 错误的
+error 错误
 
-
-
-
-
-
-
-
-
-
-
-
+Risks always coexist with opportunities,opportunities are fair to everyone,but not all of us can catch them.It depends on whether you dare to take risks or not.
+风险总是与机遇并存，机遇对每个人平等，但是不是每个人都能都抓得住他，这在于你敢不敢冒风险。

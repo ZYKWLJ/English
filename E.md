@@ -56,7 +56,7 @@ encounter 遇到，遭遇
 encourage 勇气
 ending 结尾，结局，死亡
 endless 无止境的
-endure 忍受，容忍 (阴地儿)
+endure 忍受，容忍 .p(阴地儿)
 enforce 强制执行，迫使
 engage 使订婚，使从事，聘用，吸引，占用(时间、精力) engage in 参加
 people engage in work to feed themselves 人们工作以养活自己
@@ -74,16 +74,16 @@ entitle 被命名为……
 entry 入口处，登记，进入，参赛者名单，条目
 environment 环境
 
-envy 嫉妒、羡慕
+envy 嫉妒、羡慕 penis envy **阴茎嫉妒症状** 女孩子意识到自己没有阴茎时感到焦虑的现象，是女孩子发育的正常阶段的心理，同时，女孩子该阶段会表现出从依赖母亲到和母亲争夺父亲的过渡
 epidemic 流行病
-episode 插曲、一段情节
+episode 插曲、一段情节.p(apple 馊 的)
 equality 相等
 equation 方程式
 equip 设备
-equivalent 相等的、等量的，等价物
-erect 建造，使竖直\垂直
+equivalent 相等的、等量的，等价物.p(一盔五冷特)
+erect 建造，使竖直\垂直.p(一软科特)
 
-erroneous 错误的
+erroneous 错误的.p(一肉你压死)
 error 错误
 
 Risks always coexist with opportunities,opportunities are fair to everyone,but not all of us can catch them.It depends on whether you dare to take risks or not.

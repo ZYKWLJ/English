@@ -88,3 +88,4 @@ error 错误
 
 Risks always coexist with opportunities,opportunities are fair to everyone,but not all of us can catch them.It depends on whether you dare to take risks or not.
 风险总是与机遇并存，机遇对每个人平等，但是不是每个人都能都抓得住他，这在于你敢不敢冒风险。
+

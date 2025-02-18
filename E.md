@@ -89,3 +89,29 @@ error 错误
 Risks always coexist with opportunities,opportunities are fair to everyone,but not all of us can catch them.It depends on whether you dare to take risks or not.
 风险总是与机遇并存，机遇对每个人平等，但是不是每个人都能都抓得住他，这在于你敢不敢冒风险。
 
+essay 论文，散文，文章.p(i see)
+essential 基础的，必要的，要素，精华.p(一声雀儿)
+establish 建立，安置，确定
+establishment 建立
+estate 庄园，财产，土地，地产
+estimate 估计，估价
+evaluate 估计，评估.p(一碗牛A特)
+EVE 前夜
+event 事件
+evident 明显的.p(A5)
+evidence 证据，证人
+evil 恶魔，邪恶，坏的，祸害.p(亿5) 巧记:live 反过来就是恶魔
+evolution 进化
+evolute 进化
+evolve 使发展
+exact 精确的
+exaggerate 夸大，夸张.p(一哥冉就A特)
+exceed 超过，胜过
+exceedingly 极端地，非常
+Exception 异常
+modification 更改
+excess 超越，过量，过度
+excessive 超越的，过度的
+excitement 兴奋
+exclaim 呼喊，惊叫
+exclude 排除在外的
